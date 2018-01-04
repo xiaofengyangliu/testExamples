@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Xuzs
- *
- */
-package getM;

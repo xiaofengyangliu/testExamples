@@ -1,4 +1,4 @@
-package excelRead;
+package com.excelRead;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -28,6 +28,10 @@ public class POIUtil {
 	private final static String xlsx = "xlsx";
 	
 	public static void main(String[] args) {
+		test();
+	}
+	
+	public static void test() {
 		try {
 			List<String[]> list= readExcel();
 			System.out.println(list);

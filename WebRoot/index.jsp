@@ -21,7 +21,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
 
 	<body>
-		<form action="<%=basePath%>readExcel">
+		<form action="webController.aaa?excel" method="post" enctype="multipart/form-data" >
 			<input type="file" id="excelFile" name="excelFile">
 			<input type="submit" value="11">
 		</form>

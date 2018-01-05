@@ -1,4 +1,4 @@
-package webmagic;
+package com.webmagic;
 
 import java.util.ArrayList;
 import java.util.List;

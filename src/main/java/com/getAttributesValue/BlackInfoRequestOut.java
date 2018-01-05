@@ -1,4 +1,4 @@
-package getAttributesValue;
+package com.getAttributesValue;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

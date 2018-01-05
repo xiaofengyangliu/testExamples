@@ -1,4 +1,4 @@
-package queue;
+package com.queue;
 
 public class Student {
 	private int age = 1;

@@ -1,4 +1,4 @@
-package getM.util;
+package com.getM.util;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;

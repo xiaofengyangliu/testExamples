@@ -1,4 +1,4 @@
-package getM.util;
+package com.getM.util;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

@@ -1,4 +1,4 @@
-package outJs;
+package com.outJs;
 
 
 public class Test {

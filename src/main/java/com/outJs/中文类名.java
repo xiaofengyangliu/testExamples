@@ -1,4 +1,4 @@
-package outJs;
+package com.outJs;
 
 public class 中文类名 {
 	String 姓名;
